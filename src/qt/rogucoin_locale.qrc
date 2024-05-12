@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/rogucoin_ar.qm</file>
+        <file alias="bg">locale/rogucoin_bg.qm</file>
+        <file alias="de">locale/rogucoin_de.qm</file>
+        <file alias="en">locale/rogucoin_en.qm</file>
+        <file alias="es">locale/rogucoin_es.qm</file>
+        <file alias="fi">locale/rogucoin_fi.qm</file>
+        <file alias="fr">locale/rogucoin_fr.qm</file>
+        <file alias="it">locale/rogucoin_it.qm</file>
+        <file alias="ja">locale/rogucoin_ja.qm</file>
+        <file alias="ko">locale/rogucoin_ko.qm</file>
+        <file alias="nl">locale/rogucoin_nl.qm</file>
+        <file alias="pl">locale/rogucoin_pl.qm</file>
+        <file alias="pt">locale/rogucoin_pt.qm</file>
+        <file alias="ro">locale/rogucoin_ro.qm</file>
+        <file alias="ru">locale/rogucoin_ru.qm</file>
+        <file alias="sk">locale/rogucoin_sk.qm</file>
+        <file alias="th">locale/rogucoin_th.qm</file>
+        <file alias="tr">locale/rogucoin_tr.qm</file>
+        <file alias="vi">locale/rogucoin_vi.qm</file>
+        <file alias="zh_CN">locale/rogucoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/rogucoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

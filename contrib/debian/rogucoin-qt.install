@@ -1,0 +1,6 @@
+usr/local/bin/rogucoin-qt usr/bin
+share/pixmaps/rogucoin32.xpm usr/share/pixmaps
+share/pixmaps/rogucoin16.xpm usr/share/pixmaps
+share/pixmaps/rogucoin128.png usr/share/pixmaps
+debian/rogucoin-qt.desktop usr/share/applications
+debian/rogucoin-qt.protocol usr/share/kde4/services/

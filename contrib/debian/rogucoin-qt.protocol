@@ -1,0 +1,11 @@
+[Protocol]
+exec=rogucoin-qt '%u'
+protocol=rogucoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

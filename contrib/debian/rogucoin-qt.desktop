@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rogucoin Core
+Comment=Rogucoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Rogucoin peer-to-peer Netzwerk
+Comment[fr]=Rogucoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Rogucoin, eşten eşe kriptografik sanal para birimi
+Exec=rogucoin-qt %u
+Terminal=false
+Type=Application
+Icon=rogucoin128
+MimeType=x-scheme-handler/rogucoin;
+Categories=Office;Finance;

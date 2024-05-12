@@ -1,0 +1,22 @@
+[Unit]
+Description=Rogucoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=rogucoincore
+Group=rogucoincore
+
+Type=forking
+PIDFile=/var/lib/rogucoind/rogucoind.pid
+ExecStart=/usr/bin/rogucoind -daemon -pid=/var/lib/rogucoind/rogucoind.pid \
+-conf=/etc/rogucoincore/rogucoin.conf -datadir=/var/lib/rogucoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
